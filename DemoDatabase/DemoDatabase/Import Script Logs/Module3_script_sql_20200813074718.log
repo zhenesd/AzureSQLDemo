@@ -1,0 +1,10 @@
+8/13/2020 12:47:18 PM	This log contains information about the import operation of the script 'Module3_script.sql' into project 'DemoDatabase' on computer 'ESD1IT16374' by user'ZYang.
+8/13/2020 12:47:18 PM	Started importing file: C:\Users\zyang\Downloads\Module3_script.sql 
+8/13/2020 12:47:18 PM	File name C:\Users\zyang\Downloads\Module3_script.sql (size: 812)
+8/13/2020 12:47:18 PM	Parsing import script
+8/13/2020 12:47:18 PM	Total number of batches in script: 4
+8/13/2020 12:47:18 PM	Total number of statements in script: 0
+8/13/2020 12:47:18 PM	The script was successfully imported into the project.
+8/13/2020 12:47:18 PM	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+8/13/2020 12:47:18 PM	A summary of the import was saved to the following location: C:\Users\zyang\source\repos\DemoDatabase\DemoDatabase\Import Script Logs\Module3_script_sql_20200813074718.log
+8/13/2020 12:47:18 PM	Click Finish to continue...
